@@ -12,6 +12,7 @@ To simply use the app, enter the directory and:
 
 - `npm install -g pushstate-server`
 - `pushstate-server build`
+The app will be running at localhost:9000
 
 ## Development
 
