@@ -1,0 +1,125 @@
+
+a {
+  text-decoration: none;
+}
+.app {
+  padding: 15px;
+  margin: 15px;
+}
+.post {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  background-color: #f7f7f7;
+  padding: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  height: 120px;
+}
+
+.picker {
+  width: 100%;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+  align-items:center;
+}
+
+.center{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.post-text {
+  height: 100%;
+  display: flex;
+  margin: 15px;
+  flex-flow: column;
+}
+.post-info {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: smaller;
+  color: #99A5A5;
+}
+
+.post-upvotes {
+  margin-right: 10px;
+  color: #99A5A5;
+}
+
+.post-comments {
+  font-size: smaller;
+}
+
+.post-image {
+  max-width: 100px;
+  object-fit: contain;
+}
+
+.post-domain {
+  color: #99A5A5;
+  font-size: smaller;
+}
+
+.navigate-page {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+}
+.nav-panel {
+  cursor: pointer;
+}
+
+.row-form {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.row-title {
+  margin-right: 15px;
+}
+
+.navbar {
+  width: 100%;
+  height: 50px;
+  margin-top: 15px;
+}
+
+.horizontal-nav {
+  list-style: none;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+.nav-item {
+  margin: 0px;
+  padding: 0px;
+  cursor: pointer;
+}
+
+.nav-item:hover {
+  font-weight: bold;
+  text-decoration: underline;
+  color: #7F00FF;
+}
+
+.nav-item-selected {
+  cursor: pointer;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.page-select:hover {
+  font-weight: bold;
+  text-decoration: underline;
+  color: #7F00FF;
+}
