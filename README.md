@@ -3,8 +3,6 @@ RedditReader: read through reddit!
 
 - [Usage](#Usage)
 - [Development](#Development)
-- [Deployment](#Deployment)
-
 
 ## Usage
 
