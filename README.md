@@ -29,4 +29,4 @@ To run dev version,
 
 ## Deployment
 
-There is a working copy currently at [reddit-reader.surge.sh](reddit-reader.surge.sh) to play around with
+There is a working copy currently at [reddit-reader.surge.sh](http://reddit-reader.surge.sh) to play around with
