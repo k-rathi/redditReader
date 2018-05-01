@@ -26,3 +26,7 @@ To run dev version,
 
 - `npm install`
 - `npm start`
+
+## Deployment
+
+There is a working copy currently at [reddit-reader.surge.sh](reddit-reader.surge.sh) to play around with
